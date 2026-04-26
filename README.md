@@ -4,7 +4,7 @@ A simple online version of a famous drawing toy "Etch-a-Sketch", built as part o
 
 [Course Project Link](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
 
-[Live Demo](https://gredenstain.github.io/odin-etch-a-sketch/)
+[Live Demo](https://jramedev.github.io/odin-etch-a-sketch/)
 
 Features:
 - Draw colored pixels upon hovering on the grid.
